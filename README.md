@@ -1,4 +1,4 @@
-# 🧠 EEG Schizophrenia Classification
+# EEG Schizophrenia Classification
 
 > Automated detection of Schizophrenia from EEG signals using Mel-Spectrograms and Deep Learning (EfficientNetB0 · CNN+BiLSTM)
 
