@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Project generated directories
+eeg_images/
+model_output/
+cnn_bilstm_output/
+hybrid_output/
+svm_output/
+dummy_dataset/
+extracted_features/
+
+# Models and logs
+*.keras
+*.pkl
+*.npy
+*.npz
+*.csv
+history_*.csv
+
+# Generated reports/presentations
+*.pptx
+*.pdf
+*.docx
+confusion_matrix*.png
+roc_curve*.png
+curves_phase*.png
+rf_feature_importance.png
+pca_variance*.png
+kernel_comparison.png
